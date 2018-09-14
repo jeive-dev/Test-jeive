@@ -1,0 +1,16 @@
+C:\Users\jeive\source\repos\jeive\UnitTestJeive\obj\Debug\netcoreapp2.0\UnitTestJeive.csprojResolveAssemblyReference.cache
+C:\Users\jeive\source\repos\jeive\UnitTestJeive\obj\Debug\netcoreapp2.0\UnitTestJeive.csproj.CoreCompileInputs.cache
+C:\Users\jeive\source\repos\jeive\UnitTestJeive\obj\Debug\netcoreapp2.0\UnitTestJeive.AssemblyInfoInputs.cache
+C:\Users\jeive\source\repos\jeive\UnitTestJeive\obj\Debug\netcoreapp2.0\UnitTestJeive.AssemblyInfo.cs
+C:\Users\jeive\source\repos\jeive\UnitTestJeive\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\jeive\source\repos\jeive\UnitTestJeive\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\jeive\source\repos\jeive\UnitTestJeive\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\jeive\source\repos\jeive\UnitTestJeive\bin\Debug\netcoreapp2.0\UnitTestJeive.deps.json
+C:\Users\jeive\source\repos\jeive\UnitTestJeive\bin\Debug\netcoreapp2.0\UnitTestJeive.runtimeconfig.json
+C:\Users\jeive\source\repos\jeive\UnitTestJeive\bin\Debug\netcoreapp2.0\UnitTestJeive.runtimeconfig.dev.json
+C:\Users\jeive\source\repos\jeive\UnitTestJeive\bin\Debug\netcoreapp2.0\UnitTestJeive.dll
+C:\Users\jeive\source\repos\jeive\UnitTestJeive\bin\Debug\netcoreapp2.0\UnitTestJeive.pdb
+C:\Users\jeive\source\repos\jeive\UnitTestJeive\bin\Debug\netcoreapp2.0\jeive.dll
+C:\Users\jeive\source\repos\jeive\UnitTestJeive\bin\Debug\netcoreapp2.0\jeive.pdb
+C:\Users\jeive\source\repos\jeive\UnitTestJeive\obj\Debug\netcoreapp2.0\UnitTestJeive.dll
+C:\Users\jeive\source\repos\jeive\UnitTestJeive\obj\Debug\netcoreapp2.0\UnitTestJeive.pdb

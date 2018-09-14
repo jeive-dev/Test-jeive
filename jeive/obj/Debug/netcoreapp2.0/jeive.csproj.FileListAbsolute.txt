@@ -1,0 +1,11 @@
+C:\Users\jeive\source\repos\jeive\jeive\bin\Debug\netcoreapp2.0\jeive.deps.json
+C:\Users\jeive\source\repos\jeive\jeive\bin\Debug\netcoreapp2.0\jeive.runtimeconfig.json
+C:\Users\jeive\source\repos\jeive\jeive\bin\Debug\netcoreapp2.0\jeive.runtimeconfig.dev.json
+C:\Users\jeive\source\repos\jeive\jeive\bin\Debug\netcoreapp2.0\jeive.dll
+C:\Users\jeive\source\repos\jeive\jeive\obj\Debug\netcoreapp2.0\jeive.csprojResolveAssemblyReference.cache
+C:\Users\jeive\source\repos\jeive\jeive\obj\Debug\netcoreapp2.0\jeive.csproj.CoreCompileInputs.cache
+C:\Users\jeive\source\repos\jeive\jeive\obj\Debug\netcoreapp2.0\jeive.AssemblyInfoInputs.cache
+C:\Users\jeive\source\repos\jeive\jeive\obj\Debug\netcoreapp2.0\jeive.AssemblyInfo.cs
+C:\Users\jeive\source\repos\jeive\jeive\bin\Debug\netcoreapp2.0\jeive.pdb
+C:\Users\jeive\source\repos\jeive\jeive\obj\Debug\netcoreapp2.0\jeive.dll
+C:\Users\jeive\source\repos\jeive\jeive\obj\Debug\netcoreapp2.0\jeive.pdb
